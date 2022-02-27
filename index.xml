@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AiCode</title>
-    <link>https://blog.aidiliskandar.tech/</link>
+    <link>https://aidiliskandar.tech/</link>
     <description>Recent content on AiCode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Feb 2022 20:51:00 +0800</lastBuildDate><atom:link href="https://blog.aidiliskandar.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Feb 2022 20:51:00 +0800</lastBuildDate><atom:link href="https://aidiliskandar.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macam Mana Saya Minat Programming</title>
-      <link>https://blog.aidiliskandar.tech/blog/macam-mana-saya-minat-programming/</link>
+      <link>https://aidiliskandar.tech/blog/macam-mana-saya-minat-programming/</link>
       <pubDate>Thu, 24 Feb 2022 20:51:00 +0800</pubDate>
       
-      <guid>https://blog.aidiliskandar.tech/blog/macam-mana-saya-minat-programming/</guid>
+      <guid>https://aidiliskandar.tech/blog/macam-mana-saya-minat-programming/</guid>
       <description>15/2/2021, genap 1 tahun saya belajar programming. Jadi, saya nak berkongsi dengan anda apa yang saya dapat belajar sepanjang tempoh masa 1 tahun ini. Jujur saya cakap, tempoh masa 1 tahun ni singkat je, tak banyak pun perkara yang saya sempat belajar. Tapi takpa, saya masih berpuas hati dengan progress yang saya dah buat. Kalau nak bandingkan skill programming saya yang sekarang ni dengan diri saya yang dulu memang jauh berbeza.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://blog.aidiliskandar.tech/about/</link>
+      <link>https://aidiliskandar.tech/about/</link>
       <pubDate>Sun, 20 Feb 2022 01:45:39 +0800</pubDate>
       
-      <guid>https://blog.aidiliskandar.tech/about/</guid>
+      <guid>https://aidiliskandar.tech/about/</guid>
       <description>👋 Hai, saya Aidil Iskandar. seorang pelajar yang bercita-cita menjadi seorang programmer. saya terinspirasi untuk menjadi seorang programmer dari sebuah siri TV HBO iaitu Silicon Valley. Dari situ, saya mula berminat belajar programming.
 🤔 Apakah tujuan blog ini dibangunkan?
 Tujuan blog ini dibangunkan adalah untuk berkongsi pengalaman saya dalam mempelajari ilmu pengaturcaraan dan juga berkongsi apa sahaja yang berkaitan dengan teknologi atau pengalaman peribadi saya.
@@ -30,10 +30,10 @@ Tujuan blog ini dibangunkan adalah untuk berkongsi pengalaman saya dalam mempela
     
     <item>
       <title>Kat Mana Nak Belajar Programming</title>
-      <link>https://blog.aidiliskandar.tech/blog/kat-mana-nak-belajar-programming/</link>
+      <link>https://aidiliskandar.tech/blog/kat-mana-nak-belajar-programming/</link>
       <pubDate>Fri, 18 Feb 2022 17:43:56 +0800</pubDate>
       
-      <guid>https://blog.aidiliskandar.tech/blog/kat-mana-nak-belajar-programming/</guid>
+      <guid>https://aidiliskandar.tech/blog/kat-mana-nak-belajar-programming/</guid>
       <description>Programming ni semakin lama semakin popular dekat negara kita. Tapi, kebanyakan institusi pendidikan masih belum lagi mengambil serius berkenaan perkara ini. Jadi, ramai lah orang yang teringin nak belajar programming, tapi tak tahu dari mana nak dapatkan sumber maklumat yang tepat.
 Anda yang tengah baca blog ni mesti teringin juga nak belajar programming kan? Jangan risau, saya akan kongsi beberapa sumber pembelajaran atas talian yang saya selalu gunakan.
 Sebelum itu, anda perlu tentukan apa yang anda nak buat dulu.</description>
